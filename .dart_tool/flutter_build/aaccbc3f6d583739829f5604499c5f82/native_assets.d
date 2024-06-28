@@ -1,0 +1,1 @@
+ C:\\Users\\erik.matsumoto\\Documents\\Alura\\Flutter\\alubank\\.dart_tool\\flutter_build\\aaccbc3f6d583739829f5604499c5f82\\native_assets.yaml: 
