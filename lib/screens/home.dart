@@ -11,6 +11,7 @@ class Home extends StatelessWidget {
       children: <Widget>[
         Header(),
         BoxCard(boxContent: Text('Olá mundo')),
+        
       ],
     ),);
   }
